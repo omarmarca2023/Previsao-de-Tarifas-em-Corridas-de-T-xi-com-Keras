@@ -5,3 +5,6 @@ Imagine que você trabalha para uma empresa de táxi e que uma das maiores recla
 Neste contexto, adotaremos uma rede neural como nosso modelo de regressão para efetuar essas previsões.
 
 O modelo atingiu um desempenho consistente, com pouca variação no Erro Absoluto Médio (MAE) tanto no conjunto de treinamento quanto no conjunto de validação. O modelo está errando mais ou menos 3.05 dólares e 1.87 dólares em termos absolutos.
+
+A documentação do projeto se encontra [aqui](https://medium.com/@omarca2015c/previsão-de-tarifas-em-corridas-de-táxi-com-keras-e6cfe80d3be9).
+
